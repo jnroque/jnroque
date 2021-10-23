@@ -9,5 +9,6 @@ public class ex001 {
 	System.out.println("Deu Certo mais uma linha ");
 	System.out.println(" outra linha no vs code ");
 	System.out.println(" clona para pastsa projeto ");
+	System.out.println(" clona para pastsa projeto vamos ver agora ");
 	}
 }
